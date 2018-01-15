@@ -1,0 +1,11 @@
+C:\Users\Engin Demiroğ\Desktop\NorthwindEfCodeFirst\NorthwindEfCodeFirst\bin\Debug\NorthwindEfCodeFirst.exe.config
+C:\Users\Engin Demiroğ\Desktop\NorthwindEfCodeFirst\NorthwindEfCodeFirst\bin\Debug\NorthwindEfCodeFirst.exe
+C:\Users\Engin Demiroğ\Desktop\NorthwindEfCodeFirst\NorthwindEfCodeFirst\bin\Debug\NorthwindEfCodeFirst.pdb
+C:\Users\Engin Demiroğ\Desktop\NorthwindEfCodeFirst\NorthwindEfCodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Engin Demiroğ\Desktop\NorthwindEfCodeFirst\NorthwindEfCodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Engin Demiroğ\Desktop\NorthwindEfCodeFirst\NorthwindEfCodeFirst\obj\Debug\NorthwindEfCodeFirst.csprojResolveAssemblyReference.cache
+C:\Users\Engin Demiroğ\Desktop\NorthwindEfCodeFirst\NorthwindEfCodeFirst\obj\Debug\NorthwindEfCodeFirst.exe
+C:\Users\Engin Demiroğ\Desktop\NorthwindEfCodeFirst\NorthwindEfCodeFirst\obj\Debug\NorthwindEfCodeFirst.pdb
+C:\Users\FatihOzkir\Desktop\Experience\CekirdekLabs_Educational_Public_Examples\EfCodeFirst Solutions\NorthwindEfCodeFirst\NorthwindEfCodeFirst\bin\Debug\NorthwindEfCodeFirst.exe.config
+C:\Users\FatihOzkir\Desktop\Experience\CekirdekLabs_Educational_Public_Examples\EfCodeFirst Solutions\NorthwindEfCodeFirst\NorthwindEfCodeFirst\obj\Debug\NorthwindEfCodeFirst.exe
+C:\Users\FatihOzkir\Desktop\Experience\CekirdekLabs_Educational_Public_Examples\EfCodeFirst Solutions\NorthwindEfCodeFirst\NorthwindEfCodeFirst\obj\Debug\NorthwindEfCodeFirst.pdb
